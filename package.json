@@ -169,5 +169,12 @@
     "name": "RNBounceAnimatedButtonSpec",
     "type": "modules",
     "jsSrcsDir": "src"
+  },
+  "dependencies": {
+    "react-native-bounce-animated-button": "/home/externlabs/NPM_PACKAGES/react-native-bounce-animated-button"
+  },
+  "directories": {
+    "example": "example",
+    "lib": "lib"
   }
 }
